@@ -1,0 +1,26 @@
+* {
+    background-color: #10121e;
+}
+
+img {
+    margin-left: 25%;   
+    border: 5px solid #392f20;
+}
+div h1 {
+    color: #E68369;
+    text-align: center;
+}
+div p {
+    color: #ECCEAE;
+    text-align: center;
+    
+}
+div footer {
+    
+    color: #ECCEAE;
+    text-align: center;
+    
+}
+div {
+    font-family: "Dancing Script", cursive;
+}
